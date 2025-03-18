@@ -70,6 +70,12 @@ Puedes modificar preguntas.json para agregar más preguntas.
 
 Puedes mejorar la interfaz en MainForm.cs.
 
+📜 Licencia y Copyright
+
+© 2025 [Tu Nombre o Nombre del Proyecto]. Todos los derechos reservados.
+
+Este proyecto es de código abierto y se distribuye bajo la licencia MIT. Puedes modificar y distribuir el código, siempre y cuando incluyas la atribución correspondiente.
+
 Mejoras Futuras
 
 🔹 Agregar temporizador. 🔹 Implementar efectos de sonido. 🔹 Guardar puntuaciones más altas.
