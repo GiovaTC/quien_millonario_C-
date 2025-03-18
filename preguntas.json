@@ -1,0 +1,12 @@
+[
+  {
+    "Enunciado": "¿Cuál es la capital de Francia?",
+    "Opciones": ["Madrid", "Berlín", "París", "Londres"],
+    "RespuestaCorrecta": "París"
+  },
+  {
+    "Enunciado": "¿Cuántos planetas tiene el sistema solar?",
+    "Opciones": ["7", "8", "9", "10"],
+    "RespuestaCorrecta": "8"
+  }
+]
